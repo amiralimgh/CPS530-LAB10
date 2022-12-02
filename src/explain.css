@@ -1,0 +1,10 @@
+.Explain {
+    box-sizing: border-box;
+    width: 100%;
+    display: flex;
+    padding: 1em;
+    margin-bottom: 1em;
+    background-color: rgb(46, 113, 201);
+    color: #fff;
+    font-size: 15px;
+  }
